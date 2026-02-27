@@ -1,0 +1,17 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境（千万别传！）
+venv/
+env/
+.venv/
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+
+# 依赖包列表（可选，如果你用 pip freeze 生成过 requirements.txt 可以保留它，但不要传 site-packages）
+# requirements.txt 
